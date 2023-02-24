@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 clear
 import mlreportgen.dom.*;
 import mlreportgen.report.*
