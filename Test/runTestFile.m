@@ -12,7 +12,7 @@ resultset = sltest.testmanager.run;
 
 tfr = getTestFileResults(resultset);
 
-reportFilePath = 'TestReport.pdf';
+reportFilePath = 'TestReportNew.pdf';
 
 sltest.testmanager.report(tfr,reportFilePath,...
     'Author','Jeegar',...
